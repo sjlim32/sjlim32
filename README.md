@@ -1,4 +1,4 @@
-[![lsjoon's GitHub stats](https://github-readme-stats-lsj-pj.vercel.app/api?username=sjlim32&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)  ![lsoon's beakjoonTier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjlim32)
+[![lsjoon's GitHub stats](https://github-readme-stats-lsj-pj.vercel.app/api?username=sjlim32&show_icons=true&theme=gruvbox&count_private=true&custom_title=📊%20sjlim32's%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)  ![lsoon's beakjoonTier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjlim32)
 <br/>
 
 ## 🤼‍♀️ Projects
