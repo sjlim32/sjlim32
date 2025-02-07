@@ -8,7 +8,7 @@
     <a href="https://github.com/sjlim32/together" style="text-decoration: none;">Toogether</a> , 
     <a href="https://github.com/sjlim32/pintos-kaist" style="text-decoration: none;">pintOS</a> ,
 <!--     <a href="https://github.com/sjlim32/wanted-pre-onboarding-challenge-fe-27" style="text-decoration: none;">Todo Web</a> , -->
-    <a href="https://github.com/sjlim32/workswave-frontend" style="text-decoration: none;">CHECK</a> ,
+    <a href="https://github.com/sjlim32/CHECK-FE" style="text-decoration: none;">CHECK</a> ,
     <a href="https://dev.eform.co.kr" style="text-decoration: none;">eform</a>
   </p>
   <p>
