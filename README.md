@@ -1,15 +1,23 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=ffdb33&height=300&section=header&text=Hello,%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=lsjoon's%20GitHub%20Profile&descAlignY=51&descAlign=62" />
+
+
 [![lsjoon's GitHub stats](https://github-readme-stats-lsj-pj.vercel.app/api?username=sjlim32&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)  ![lsoon's beakjoonTier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjlim32)
 <br/>
 
 ## 🤼‍♀️ Projects
 <div>
   <p>
+    <strong>2025 : </strong> 
+    <a href="https://www.notion.so/lsjoon/eForm-1f865bf2693d809989d7e5dc2cfc7d81" style="text-decoration: none;">eForm</a> ,
+    <a href="https://www.notion.so/lsjoon/20565bf2693d804cb378ea3a1126bd7f" style="text-decoration: none;">Sihyunhada</a>
+    
+  </p>
+  <p>
     <strong>2024 : </strong> 
     <a href="https://github.com/sjlim32/together" style="text-decoration: none;">Toogether</a> , 
-    <a href="https://github.com/sjlim32/pintos-kaist" style="text-decoration: none;">pintOS</a> ,
+<!--     <a href="https://github.com/sjlim32/pintos-kaist" style="text-decoration: none;">pintOS</a> , -->
 <!--     <a href="https://github.com/sjlim32/wanted-pre-onboarding-challenge-fe-27" style="text-decoration: none;">Todo Web</a> , -->
-    <a href="https://github.com/sjlim32/CHECK-FE" style="text-decoration: none;">CHECK</a> ,
-    <a href="https://dev.eform.co.kr" style="text-decoration: none;">eform</a>
+    <a href="https://github.com/sjlim32/CHECK-FE" style="text-decoration: none;">CHECK</a>
   </p>
   <p>
     <strong>2023 : </strong> 
