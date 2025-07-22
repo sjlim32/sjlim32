@@ -6,6 +6,83 @@
 <main>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-445%20hrs%2058%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 115.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 967 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 25 Public Repositories 
+ > 
+> 🔑 6 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                846 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+🌆 Daytime                2893 commits        █████████░░░░░░░░░░░░░░░░   36.31 % 
+🌃 Evening                2906 commits        █████████░░░░░░░░░░░░░░░░   36.47 % 
+🌙 Night                  1323 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   805 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Tuesday                  1245 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Wednesday                1495 commits        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Thursday                 1285 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Friday                   1746 commits        █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+Saturday                 508 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Sunday                   884 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+TypeScript               27 hrs 29 mins      ████████████████████████░   96.56 % 
+HTML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+VS Code                  28 hrs 28 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+web                      28 hrs 28 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      28 hrs 28 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               11 repos            █████████░░░░░░░░░░░░░░░░   35.48 % 
+C                        5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/sjlim32/sjlim32/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/07/2025 01:01:53 UTC
 <!--END_SECTION:waka-->
   
 [![lsjoon's GitHub stats](https://github-readme-stats-lsj-pj.vercel.app/api?username=sjlim32&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)  
