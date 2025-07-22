@@ -1,7 +1,17 @@
+
+<header>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=ffdb33&height=300&section=header&text=Hello,%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=lsjoon's%20GitHub%20Profile&descAlignY=51&descAlign=62" />
+</header>
 
+<main>
 
-[![lsjoon's GitHub stats](https://github-readme-stats-lsj-pj.vercel.app/api?username=sjlim32&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)  ![lsoon's beakjoonTier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjlim32)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
+[![lsjoon's GitHub stats](https://github-readme-stats-lsj-pj.vercel.app/api?username=sjlim32&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)  
+
+<!--     ![lsoon's beakjoonTier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjlim32) -->
+
 <br/>
 
 ## 🤼‍♀️ Projects
@@ -55,3 +65,4 @@
   <a href="https://velog.io/@sjlim32/posts" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-20C997.svg?style=flat&logo=velog&logoColor=white" /></a>
   <a href="https://www.instagram.com/3z_sjn" target="_blank"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram" /></a>
 </div>
+</main>
