@@ -69,7 +69,7 @@
 <section>
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C295%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C302%20hrs%2019%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-15.28%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -100,17 +100,18 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               26 hrs 46 mins      ████████████████████████░   94.63 % 
-JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+TypeScript               25 hrs 6 mins       ███████████████████████░░   91.32 % 
+JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Other                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 에디터들: 
-Cursor                   28 hrs 17 mins      █████████████████████████   100.00 % 
+Cursor                   20 hrs 14 mins      ██████████████████░░░░░░░   73.59 % 
+Antigravity              7 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.41 % 
 
 💻 운영 체제들: 
-Mac                      28 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
@@ -126,7 +127,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2026 17:28:06 UTC
+ Last Updated on 24/01/2026 17:18:20 UTC
 <!--END_SECTION:waka-->
 
  
