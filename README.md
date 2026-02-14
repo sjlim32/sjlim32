@@ -69,7 +69,7 @@
 <section>
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C403%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C413%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-20.21%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -100,18 +100,18 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               34 hrs 39 mins      ████████████████████████░   96.92 % 
-JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Git Config               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+TypeScript               37 hrs 25 mins      ████████████████████████░   96.93 % 
+JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Git Config               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 에디터들: 
-Cursor                   33 hrs 20 mins      ███████████████████████░░   93.24 % 
-Antigravity              2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Cursor                   36 hrs 18 mins      ████████████████████████░   94.01 % 
+Antigravity              2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 💻 운영 체제들: 
-Mac                      35 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
@@ -127,7 +127,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2026 17:43:29 UTC
+ Last Updated on 14/02/2026 17:28:53 UTC
 <!--END_SECTION:waka-->
 
  
