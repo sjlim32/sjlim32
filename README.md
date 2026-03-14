@@ -69,7 +69,7 @@
 <section>
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C499%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C506%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-21.75%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -100,18 +100,17 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               27 hrs 2 mins       ██████████████████████░░░   88.82 % 
-Other                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+TypeScript               22 hrs 15 mins      ███████████████████░░░░░░   76.58 % 
+Blade Template           2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Other                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+PHP                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 에디터들: 
-Cursor                   29 hrs 33 mins      ████████████████████████░   97.05 % 
-Antigravity              53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Cursor                   29 hrs 3 mins       █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      30 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
@@ -127,7 +126,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/03/2026 17:39:47 UTC
+ Last Updated on 14/03/2026 17:28:10 UTC
 <!--END_SECTION:waka-->
 
  
