@@ -13,10 +13,21 @@
 
 ## 🤼‍♀️ Projects
 <div>
+   <p>
+    <strong>2025 : </strong> 
+    <a href="https://www.notion.so/lsjoon/eForm-1f865bf2693d809989d7e5dc2cfc7d81" style="text-decoration: none;">eForm</a> ,
+    <a href="https://geota.co.kr" style="text-decoration: none;">Geota</a> ,
+    <a>Geota Admin</a> ,
+    <a href="https://suddensp.com" style="text-decoration: none;">idfarm BackLink Site</a> ,
+    <a>idfarm admin</a> ,
+  </p>
+  
   <p>
     <strong>2025 : </strong> 
     <a href="https://www.notion.so/lsjoon/eForm-1f865bf2693d809989d7e5dc2cfc7d81" style="text-decoration: none;">eForm</a> ,
-    <a href="https://www.notion.so/lsjoon/20565bf2693d804cb378ea3a1126bd7f" style="text-decoration: none;">Sihyunhada</a>
+    <a>eForm admin </a> ,
+    <a href="https://www.notion.so/lsjoon/20565bf2693d804cb378ea3a1126bd7f" style="text-decoration: none;">Sihyunhada</a> ,
+    <a href="https://idfarm.co.kr" style="text-decoration: none;">idfarm</a> 
     
   </p>
   <p>
