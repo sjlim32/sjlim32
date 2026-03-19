@@ -14,7 +14,7 @@
 ## 🤼‍♀️ Projects
 <div>
    <p>
-    <strong>2025 : </strong> 
+    <strong>2026 : </strong> 
     <a href="https://www.notion.so/lsjoon/eForm-1f865bf2693d809989d7e5dc2cfc7d81" style="text-decoration: none;">eForm</a> ,
     <a>eForm admin </a> ,
     <a href="https://geota.co.kr" style="text-decoration: none;">Geota</a> ,
