@@ -81,7 +81,51 @@
 <section>
  
  <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-17.79%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C817%20hrs%2018%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-18.38%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+
+**저는 아침형 인간이에요. 🐤** 
+
+```text
+🌞 아침                     7502 commits        ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+🌆 낮　                     14776 commits       █████████████░░░░░░░░░░░░   51.12 % 
+🌃 저녁                     5178 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+🌙 밤　                     1448 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+```
+📅 **제가 가장 생산적인 날은 금요일이에요.** 
+
+```text
+월요일                      4984 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+화요일                      5280 commits        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+수요일                      5462 commits        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+목요일                      4709 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+금요일                      7021 commits        ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+토요일                      542 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+일요일                      906 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+```
+
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+TypeScript               20 hrs 14 mins      ███████████████████████░░   92.13 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Bash                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+CSS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+
+🔥 에디터들: 
+VS Code                  11 hrs 12 mins      █████████████░░░░░░░░░░░░   51.03 % 
+Cursor                   7 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.18 % 
+Unknown Editor           3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+
+💻 운영 체제들: 
+Mac                      21 hrs 57 mins      █████████████████████████   100.00 % 
+```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
 
@@ -96,7 +140,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 19:42:52 UTC
+ Last Updated on 29/05/2026 19:39:00 UTC
 <!--END_SECTION:waka-->
 
  
