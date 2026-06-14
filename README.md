@@ -81,7 +81,7 @@
 <section>
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C847%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C847%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-19.40%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -112,20 +112,20 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               9 hrs 37 mins       █████████████████████████   99.26 % 
+TypeScript               9 hrs 37 mins       ████████████████████████░   98.00 % 
+Docker                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 에디터들: 
-VS Code                  5 hrs 36 mins       ██████████████░░░░░░░░░░░   57.79 % 
-Claude Code              2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-Cursor                   1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Antigravityide           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+VS Code                  5 hrs 36 mins       ██████████████░░░░░░░░░░░   57.12 % 
+Claude Code              2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
+Cursor                   1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Antigravityide           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 운영 체제들: 
-Mac                      9 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
@@ -141,7 +141,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2026 18:12:14 UTC
+ Last Updated on 14/06/2026 18:16:36 UTC
 <!--END_SECTION:waka-->
 
  
