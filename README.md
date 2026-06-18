@@ -1,86 +1,82 @@
-
-<header>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=ffdb33&height=300&section=header&text=Hello,%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=lsjoon's%20GitHub%20Profile&descAlignY=51&descAlign=62" />
+<header align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=ffdb33&height=300&section=header&text=Hello,%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20lsjoon&descAlignY=51&descAlign=62" width="100%" />
 </header>
 
-<main>
- 
-[![lsjoon's GitHub stats](https://github-readme-stats-lsj-pj.vercel.app/api?username=sjlim32&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)  
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-lsj-pj.vercel.app/api?username=sjlim32&show_icons=true&theme=gruvbox" alt="lsjoon's GitHub stats" />
+  </a>
+</div>
 
-<!--     ![lsoon's beakjoonTier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjlim32) -->
+<br/>
+
+## 👋 About Me
+
+**프론트엔드 엔지니어링과 시스템 아키텍처 설계에 주력하는 소프트웨어 개발자 임성준입니다.**
+
+- **TypeScript**와 **Next.js**, **React** 생태계를 기반으로 확장 가능하고 유지보수가 용이한 웹 애플리케이션을 구축합니다.
+- 단순한 UI 구현을 넘어, **Docker**, **Jenkins**, **GitHub Actions**를 활용한 CI/CD 파이프라인 구축 및 데브옵스 환경 최적화에 관심이 많습니다.
+- 프론트엔드부터 백엔드(Node.js, PHP/Laravel 등)까지 아우르는 풀스택 관점을 바탕으로, 안정적이고 효율적인 시스템 아키텍처를 설계하는 것을 지향합니다.
+
+<br/>
+
+## 🛠 Tech Stacks
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
+  <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mantine-ffffff.svg?style=for-the-badge&logo=Mantine&logoColor=339af0" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" />
+</p>
+
+### Infrastructure & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
 
 <br/>
 
 ## 🤼‍♀️ Projects
-<div>
-   <p>
-    <strong>2026 : </strong> 
-    <a href="https://www.notion.so/lsjoon/eForm-1f865bf2693d809989d7e5dc2cfc7d81" style="text-decoration: none;">eForm</a> ,
-    <a>eForm admin </a> ,
-    <a href="https://geota.co.kr" style="text-decoration: none;">Geota</a> ,
-    <a>Geota Admin</a> ,
-    <a href="https://suddensp.com" style="text-decoration: none;">idfarm BackLink Site</a> ,
-    <a>idfarm admin</a> ,
-  </p>
-  
-  <p>
-    <strong>2025 : </strong> 
-    <a href="https://www.notion.so/lsjoon/eForm-1f865bf2693d809989d7e5dc2cfc7d81" style="text-decoration: none;">eForm</a> ,
-    <a>eForm admin </a> ,
-    <a href="https://www.notion.so/lsjoon/20565bf2693d804cb378ea3a1126bd7f" style="text-decoration: none;">Sihyunhada</a> ,
-    <a href="https://idfarm.co.kr" style="text-decoration: none;">idfarm</a> 
-    
-  </p>
-  <p>
-    <strong>2024 : </strong> 
-    <a href="https://github.com/sjlim32/together" style="text-decoration: none;">Toogether</a> , 
-<!--     <a href="https://github.com/sjlim32/pintos-kaist" style="text-decoration: none;">pintOS</a> , -->
-<!--     <a href="https://github.com/sjlim32/wanted-pre-onboarding-challenge-fe-27" style="text-decoration: none;">Todo Web</a> , -->
-    <a href="https://github.com/sjlim32/CHECK-FE" style="text-decoration: none;">CHECK</a>
-  </p>
-  <p>
-    <strong>2023 : </strong> 
-    <a href="https://github.com/sjlim32/elice_3rd_project">One-line</a> ,
-    <a href="https://github.com/sjlim32/elice_2nd_project">24/7</a> ,
-    <a href="https://github.com/sjlim32/elice_1st_project">ellegence</a>
-  </p>
-</div>
+
+| Year | Project Details |
+| :---: | :--- |
+| **2026** | 🔹 [IDfarm](https://idfarm.co.kr) (+ ADMIN) <br> 🔹 [eForm](https://www.notion.so/lsjoon/eForm-1f865bf2693d809989d7e5dc2cfc7d81) (+ ADMIN) <br> 🔹 [Geota](https://geota.co.kr) (+ ADMIN) <br> 🔹 Backlinks: [SA](https://suddensp.com) / [MAPLE](https://maplemeso.co.kr) / [DnF](https://dnfgold.co.kr) |
+| **2025** | 🔹 [eForm](https://www.notion.so/lsjoon/eForm-1f865bf2693d809989d7e5dc2cfc7d81) (+ ADMIN) <br> 🔹 [Sihyunhada](https://www.notion.so/lsjoon/20565bf2693d804cb378ea3a1126bd7f) <br> 🔹 [IDfarm](https://idfarm.co.kr) |
+| **2024** | 🔹 [Toogether](https://github.com/sjlim32/together) <br> 🔹 [CHECK](https://github.com/sjlim32/CHECK-FE) |
+| **2023** | 🔹 [One-line](https://github.com/sjlim32/elice_3rd_project) <br> 🔹 [24/7](https://github.com/sjlim32/elice_2nd_project) <br> 🔹 [ellegence](https://github.com/sjlim32/elice_1st_project) |
+
 <br/>
 
-## 👨‍💻 Stacks
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
-</div>
-<br>
+## 📬 Contact & Channels
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />
-</div>
-<br>
+<p align="center">
+  <a href="https://velog.io/@sjlim32/posts" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-20C997.svg?style=for-the-badge&logo=velog&logoColor=white" /></a>
+  <a href="https://www.instagram.com/3z_sjn" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" />&nbsp
-</div>
-<br>
+<br/>
 
-## 📬 My Sites
-<div align="center">
-  <a href="https://velog.io/@sjlim32/posts" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-20C997.svg?style=flat&logo=velog&logoColor=white" /></a>
-  <a href="https://www.instagram.com/3z_sjn" target="_blank"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram" /></a>
-</div>
+## 📊 GitHub Analytics
 
-
-## 📊 Github Info
-
-<section>
- 
- <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C855%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-20.63%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
@@ -89,60 +85,6 @@
 
 ```text
 🌞 아침                     8802 commits        ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-🌆 낮　                     17293 commits       █████████████░░░░░░░░░░░░   51.92 % 
+🌆 낮                      17293 commits       █████████████░░░░░░░░░░░░   51.92 % 
 🌃 저녁                     5764 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-🌙 밤　                     1449 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-```
-📅 **제가 가장 생산적인 날은 금요일이에요.** 
-
-```text
-월요일                      6075 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-화요일                      6089 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-수요일                      6178 commits        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-목요일                      5475 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-금요일                      8035 commits        ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-토요일                      542 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-일요일                      914 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-Blade Template           4 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.78 % 
-TypeScript               4 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   37.51 % 
-PHP                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-SCSS                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-
-🔥 에디터들: 
-Cursor                   6 hrs 6 mins        ██████████████░░░░░░░░░░░   56.72 % 
-Claude Code              3 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.29 % 
-VS Code                  1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-
-💻 운영 체제들: 
-Mac                      10 hrs 47 mins      █████████████████████████   100.00 % 
-```
-
-**저는 주로 TypeScript 언어를 사용해요.** 
-
-```text
-TypeScript               17 repos            ███████████░░░░░░░░░░░░░░   42.50 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-C                        5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-```
-
-
-
-
- Last Updated on 18/06/2026 19:34:17 UTC
-<!--END_SECTION:waka-->
-
- 
-</section>
-</main>
+🌙 밤                      1449 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
