@@ -58,7 +58,7 @@
 
 | Year | Project Details |
 | :---: | :--- |
-| **2026** | 🔹 [IDfarm](https://idfarm.co.kr) (+ ADMIN) <br> 🔹 [eForm](https://www.notion.so/lsjoon/eForm-1f865bf2693d809989d7e5dc2cfc7d81) (+ ADMIN) <br> 🔹 [Geota](https://geota.co.kr) (+ ADMIN) <br> 🔹 Backlinks: [SA](https://suddensp.com) / [MAPLE](https://maplemeso.co.kr) / [DnF](https://dnfgold.co.kr) |
+| **2026** | 🔹 [IDfarm](https://idfarm.co.kr) (+ ADMIN) <br> 🔹 [eForm](https://www.notion.so/lsjoon/eForm-1f865bf2693d809989d7e5dc2cfc7d81) (+ ADMIN) <br> 🔹 [Geota](https://geota.co.kr) (+ ADMIN) <br> 🔹 [SAGG](https://sudden.gg) |🔹 Backlinks: [SA](https://suddensp.com) / [MAPLE](https://maplemeso.co.kr) / [DnF](https://dnfgold.co.kr) |
 | **2025** | 🔹 [eForm](https://www.notion.so/lsjoon/eForm-1f865bf2693d809989d7e5dc2cfc7d81) (+ ADMIN) <br> 🔹 [Sihyunhada](https://www.notion.so/lsjoon/20565bf2693d804cb378ea3a1126bd7f) <br> 🔹 [IDfarm](https://idfarm.co.kr) |
 | **2024** | 🔹 [Toogether](https://github.com/sjlim32/together) <br> 🔹 [CHECK](https://github.com/sjlim32/CHECK-FE) |
 | **2023** | 🔹 [One-line](https://github.com/sjlim32/elice_3rd_project) <br> 🔹 [24/7](https://github.com/sjlim32/elice_2nd_project) <br> 🔹 [ellegence](https://github.com/sjlim32/elice_1st_project) |
