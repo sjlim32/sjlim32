@@ -24,4 +24,10 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
-          SHOW_PROJECTS: "False"
+          SHOW_PROJECTS: "False",
+          BAR_STYLE: "svg"
+          BAR_COLOR: "#90CAF9"
+          BAR_TRACK_COLOR: "#172f45"
+          BAR_RADIUS: "4"
+          TEXT_PRIMARY_COLOR: "#c9d1d9"
+          TEXT_SECONDARY_COLOR: "#8b949e"
