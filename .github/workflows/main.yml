@@ -1,11 +1,9 @@
 name: Waka Readme
-
 on:
   schedule:
     # 한국 시간(KST) 기준 매일 02:00에 실행 (UTC 기준 전날 17:00)
     - cron: '0 17 * * *'
   workflow_dispatch:
-
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -25,9 +23,13 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "False"
-          BAR_STYLE: "svg"
-          BAR_COLOR: "#90CAF9"
-          BAR_TRACK_COLOR: "#172f45"
-          BAR_RADIUS: "4"
-          TEXT_PRIMARY_COLOR: "#c9d1d9"
-          TEXT_SECONDARY_COLOR: "#8b949e"
+          
+          # 1. "svg" 대신 텍스트 기반 막대로 변경합니다. ("smooth", "block", "box" 등 사용 가능)
+          BAR_STYLE: "smooth" 
+          
+          # 2. 아래 속성들은 SVG 형식에서만 지원되므로 삭제하거나 주석 처리합니다.
+          # BAR_COLOR: "#90CAF9"
+          # BAR_TRACK_COLOR: "#172f45"
+          # BAR_RADIUS: "4"
+          # TEXT_PRIMARY_COLOR: "#c9d1d9"
+          # TEXT_SECONDARY_COLOR: "#8b949e"
