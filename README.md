@@ -77,30 +77,30 @@
 ## 📊 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C242%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C253%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-540%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-550%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-29.95%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-31.17%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     16954 commits       ████████░░░░░░░░░░░░░░░░░   30.15 % 
-🌆 낮　                     30044 commits       █████████████░░░░░░░░░░░░   53.42 % 
-🌃 저녁                     7419 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-🌙 밤　                     1823 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+🌞 아침                     17847 commits       ████████░░░░░░░░░░░░░░░░░   30.23 % 
+🌆 낮　                     31643 commits       █████████████░░░░░░░░░░░░   53.61 % 
+🌃 저녁                     7708 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+🌙 밤　                     1831 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 ```
-📅 **제가 가장 생산적인 날은 금요일이에요.** 
+📅 **제가 가장 생산적인 날은 화요일이에요.** 
 
 ```text
-월요일                      9664 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-화요일                      11574 commits       █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-수요일                      11278 commits       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-목요일                      10098 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-금요일                      11775 commits       █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-토요일                      885 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-일요일                      966 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+월요일                      10179 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+화요일                      12281 commits       █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+수요일                      11848 commits       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+목요일                      10580 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+금요일                      12285 commits       █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+토요일                      886 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+일요일                      970 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 
 
@@ -110,44 +110,44 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               35 hrs 16 mins      ███████████████░░░░░░░░░░   60.97 % 
-Markdown                 8 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Other                    3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-MDX                      2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-SQL                      1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+TypeScript               34 hrs 46 mins      ██████████████░░░░░░░░░░░   57.66 % 
+Markdown                 10 hrs 27 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Other                    4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+MDX                      2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+SQL                      1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 에디터들: 
-Cursor                   21 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   36.55 % 
-Claude Code              20 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   35.73 % 
-Agent                    16 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Claude Code              24 hrs 54 mins      ██████████░░░░░░░░░░░░░░░   41.31 % 
+Cursor                   19 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   32.26 % 
+Agent                    15 hrs 56 mins      ███████░░░░░░░░░░░░░░░░░░   26.43 % 
 
 💻 운영 체제들: 
-Mac                      57 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      60 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 hrs 59 mins (88.11%)
+⏱ AI Coding Time: 54 hrs 4 mins (89.67%)
 
-✍️ 14,851 lines written by AI, 4,037 lines written by hand (78.63% AI-written)
+✍️ 16,567 lines written by AI, 2,322 lines written by hand (87.71% AI-written)
 
-🔤 18,505,706 Input Tokens, 7,638,258 Output Tokens
+🔤 18,079,509 Input Tokens, 7,628,997 Output Tokens
 
-💵 $422.38 Estimated AI Cost This Week
+💵 $450.50 Estimated AI Cost This Week
 
-🧠 57 AI Sessions, 2474 AI Prompts
+🧠 59 AI Sessions, 2429 AI Prompts
 
-Sonnet                   18,328 lines        █████████████████████████   100.00 % 
+Sonnet                   20,298 lines        █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.63% of written lines came from AI
-📚 Verbose Prompter — average 8,043 characters per prompt
-🔁 Iterative Prompter — average 43 prompts per session
-🚀 High AI Trust — 41.41% of changed lines were hand-edited
+🤖 AI-Driven — 87.71% of written lines came from AI
+📚 Verbose Prompter — average 7,746 characters per prompt
+🔁 Iterative Prompter — average 41 prompts per session
+🚀 High AI Trust — 21.8% of changed lines were hand-edited
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
@@ -163,5 +163,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 20:34:09 UTC
+ Last Updated on 08/09/2026 19:58:50 UTC
 <!--END_SECTION:waka-->
