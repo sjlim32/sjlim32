@@ -77,30 +77,30 @@
 ## 📊 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C315%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C321%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-604%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-606%20hrs%2013%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-35.54%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-37.01%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     21286 commits       ████████░░░░░░░░░░░░░░░░░   30.65 % 
-🌆 낮　                     37668 commits       ██████████████░░░░░░░░░░░   54.25 % 
-🌃 저녁                     8648 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-🌙 밤　                     1837 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+🌞 아침                     22400 commits       ████████░░░░░░░░░░░░░░░░░   30.83 % 
+🌆 낮　                     39504 commits       ██████████████░░░░░░░░░░░   54.37 % 
+🌃 저녁                     8923 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+🌙 밤　                     1837 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 📅 **제가 가장 생산적인 날은 화요일이에요.** 
 
 ```text
-월요일                      11947 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-화요일                      14841 commits       █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-수요일                      14045 commits       █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-목요일                      12538 commits       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-금요일                      14212 commits       █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-토요일                      886 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-일요일                      970 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+월요일                      12529 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+화요일                      15623 commits       █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+수요일                      14731 commits       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+목요일                      13125 commits       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+금요일                      14800 commits       █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+토요일                      886 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+일요일                      970 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 
 
@@ -110,17 +110,15 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JavaScript               10 hrs 36 mins      ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-TypeScript               8 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-Blade Template           7 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-Markdown                 3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-PHP                      2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+TypeScript               10 hrs 46 mins      ████████░░░░░░░░░░░░░░░░░   30.36 % 
+JavaScript               9 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+Blade Template           6 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Markdown                 3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+MDX                      1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 🔥 에디터들: 
-Antigravity IDE          28 hrs 50 mins      ████████████████████░░░░░   81.28 % 
-Claude Code              6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Cursor                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Antigravity IDE          29 hrs 30 mins      █████████████████████░░░░   83.21 % 
+Claude Code              5 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
 
 💻 운영 체제들: 
 Mac                      35 hrs 28 mins      █████████████████████████   100.00 % 
@@ -129,27 +127,26 @@ Mac                      35 hrs 28 mins      ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 9 mins (82.17%)
+⏱ AI Coding Time: 27 hrs (76.16%)
 
-✍️ 7,053 lines written by AI, 1,265 lines written by hand (84.79% AI-written)
+✍️ 5,403 lines written by AI, 1,845 lines written by hand (74.54% AI-written)
 
-🔤 3,334,901 Input Tokens, 671,004 Output Tokens
+🔤 3,736,460 Input Tokens, 651,406 Output Tokens
 
-💵 $72.61 Estimated AI Cost This Week
+💵 $71.91 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 533 AI Prompts
+🧠 34 AI Sessions, 524 AI Prompts
 
-Gemini                   5,012 lines         ███████████████░░░░░░░░░░   60.16 % 
-Sonnet                   3,319 lines         ██████████░░░░░░░░░░░░░░░   39.84 % 
+Gemini                   3,815 lines         ██████████████░░░░░░░░░░░   57.45 % 
+Sonnet                   2,825 lines         ███████████░░░░░░░░░░░░░░   42.55 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.79% of written lines came from AI
-📄 Detailed Prompter — average 601 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 20.09% of changed lines were hand-edited
+🤖 AI-Driven — 74.54% of written lines came from AI
+📄 Detailed Prompter — average 585 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 30.79% of changed lines were hand-edited
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
@@ -165,5 +162,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 19:30:35 UTC
+ Last Updated on 21/09/2026 21:04:28 UTC
 <!--END_SECTION:waka-->
