@@ -81,26 +81,26 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-613%20hrs%2024%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-33.34%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-34.58%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     19950 commits       ████████░░░░░░░░░░░░░░░░░   30.84 % 
-🌆 낮　                     34767 commits       █████████████░░░░░░░░░░░░   53.75 % 
-🌃 저녁                     8133 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-🌙 밤　                     1837 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+🌞 아침                     20871 commits       ████████░░░░░░░░░░░░░░░░░   30.92 % 
+🌆 낮　                     36417 commits       █████████████░░░░░░░░░░░░   53.94 % 
+🌃 저녁                     8385 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+🌙 밤　                     1837 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 📅 **제가 가장 생산적인 날은 화요일이에요.** 
 
 ```text
-월요일                      11006 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-화요일                      13798 commits       █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-수요일                      13108 commits       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-목요일                      11689 commits       █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-금요일                      13230 commits       █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-토요일                      886 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-일요일                      970 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+월요일                      11510 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+화요일                      14494 commits       █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+수요일                      13711 commits       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+목요일                      12190 commits       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+금요일                      13749 commits       █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+토요일                      886 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+일요일                      970 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 ```
 
 
@@ -110,43 +110,43 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               12 hrs 13 mins      ██████████████░░░░░░░░░░░   54.03 % 
-Blade Template           2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-JavaScript               2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-MDX                      1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Markdown                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+TypeScript               10 hrs 33 mins      ████████████████░░░░░░░░░   65.67 % 
+MDX                      1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Markdown                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+SCSS                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🔥 에디터들: 
-Antigravity IDE          19 hrs 49 mins      ██████████████████████░░░   87.54 % 
-Claude Code              2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Antigravity IDE          13 hrs 19 mins      █████████████████████░░░░   82.98 % 
+Claude Code              2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
 
 💻 운영 체제들: 
-Mac                      22 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 18 mins (63.18%)
+⏱ AI Coding Time: 9 hrs 23 mins (58.48%)
 
-✍️ 5,103 lines written by AI, 1,029 lines written by hand (83.22% AI-written)
+✍️ 4,248 lines written by AI, 873 lines written by hand (82.95% AI-written)
 
-🔤 3,549,692 Input Tokens, 366,927 Output Tokens
+🔤 3,328,590 Input Tokens, 351,515 Output Tokens
 
-💵 $57.22 Estimated AI Cost This Week
+💵 $55.93 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 218 AI Prompts
+🧠 10 AI Sessions, 132 AI Prompts
 
-Gemini                   4,354 lines         ██████████████████░░░░░░░   70.08 % 
-Sonnet                   1,825 lines         ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-Opus                     34 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Gemini                   3,244 lines         ████████████████░░░░░░░░░   63.58 % 
+Sonnet                   1,824 lines         █████████░░░░░░░░░░░░░░░░   35.75 % 
+Opus                     34 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.22% of written lines came from AI
-📝 Concise Prompter — average 244 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 22.42% of changed lines were hand-edited
+🤖 AI-Driven — 82.95% of written lines came from AI
+📝 Concise Prompter — average 346 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 22.56% of changed lines were hand-edited
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
@@ -162,5 +162,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 20:33:52 UTC
+ Last Updated on 25/09/2026 20:29:36 UTC
 <!--END_SECTION:waka-->
