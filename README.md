@@ -110,42 +110,42 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               16 hrs 28 mins      █████████████████░░░░░░░░   69.86 % 
-JavaScript               2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Blade Template           1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+TypeScript               11 hrs 17 mins      ██████████████████░░░░░░░   73.86 % 
+JavaScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Blade Template           27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 에디터들: 
-Antigravity IDE          13 hrs 32 mins      ██████████████░░░░░░░░░░░   57.38 % 
-Claude Code              10 hrs 3 mins       ███████████░░░░░░░░░░░░░░   42.62 % 
+Claude Code              7 hrs 39 mins       █████████████░░░░░░░░░░░░   50.08 % 
+Antigravity IDE          7 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.92 % 
 
 💻 운영 체제들: 
-Mac                      23 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 48 mins (71.25%)
+⏱ AI Coding Time: 11 hrs 21 mins (74.28%)
 
-✍️ 4,561 lines written by AI, 984 lines written by hand (82.25% AI-written)
+✍️ 1,942 lines written by AI, 356 lines written by hand (84.51% AI-written)
 
-🔤 20,738,643 Input Tokens, 2,591,979 Output Tokens
+🔤 10,123,916 Input Tokens, 1,631,176 Output Tokens
 
-💵 $191.87 Estimated AI Cost This Week
+💵 $121.07 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 229 AI Prompts
+🧠 11 AI Sessions, 124 AI Prompts
 
-Opus                     4,283 lines         ████████████████████░░░░░   80.31 % 
-Gemini                   1,050 lines         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Opus                     1,329 lines         ████████████████░░░░░░░░░   64.73 % 
+Gemini                   724 lines           █████████░░░░░░░░░░░░░░░░   35.27 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.25% of written lines came from AI
-📄 Detailed Prompter — average 1,336 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 28.89% of changed lines were hand-edited
+🤖 AI-Driven — 84.51% of written lines came from AI
+📄 Detailed Prompter — average 1,432 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 32.58% of changed lines were hand-edited
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
@@ -161,5 +161,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 22:08:20 UTC
+ Last Updated on 10/10/2026 20:42:02 UTC
 <!--END_SECTION:waka-->
